@@ -12,6 +12,8 @@ directory. If not, give full path.)\
 For detailed output-\
 java Scheduler --verbose <filename>
 
-(Note that the file must be in the current working directory. If not, give full path.)\
+(Note that the file must be in the current working directory. If not, give full path.)
 
 Note: I have used the name "random-numbers" for the random numbers file. Please make sure that you have the same name and the file is in the current working directory.
+
+Refer to the 'scheduling.pdf' file for instructions and input format.
